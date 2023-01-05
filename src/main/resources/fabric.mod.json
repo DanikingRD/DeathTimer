@@ -21,10 +21,13 @@
   "entrypoints": {
     "main": [
       "daniking.deathtimer.DeathTimer"
+    ],
+    "client": [
+      "daniking.deathtimer.DeathTimerClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "deathtimer.mixins.json"
   ],
 
   "depends": {

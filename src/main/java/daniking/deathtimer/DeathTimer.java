@@ -8,6 +8,6 @@ public class DeathTimer implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
+        
     }
-}
+ }
